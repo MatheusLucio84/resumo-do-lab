@@ -85,6 +85,40 @@ Gateway de VPN – tráfego criptografado entre rede virtual do Azure e local.
 ExpressRoute – comunicação via cabo. Proximidade ao Datacenter, rapides e confiabilidade.
 DNS Azures: usa rede Anycast – confiabilidade e desempenho. Baseado no gerenciamento de recursos, habilitando o controle de acesso e monitoramento e registro log.
 
+Azure Functions:
+Executar atividades em determinado eventos. Plataforma como serviço PaaS, sem necessidade de sistema operacional.
+Lift-and-shift levar como está para nuvem.
+Área de trabalho virtual rastreabilidade, e segurança.
+Contêineres: ambiente leves em miniatura, aplicativos e serviços empacotados.
+Serviços de Aplicativos:
+Aplicativos Web e APIs rapidamente – Aceita Git / Github.
+PaaS
+Rede Virtual do Azure (Vnet):
+Permite que os recursos se comuniquem uns com outros, com a internet e as redes locais. Precisa ser configurados para comunicação.
+Comunicação publica e privados. Cuidados com ips iguais em redes diferentes.
+Gateway de VPN – tráfego criptografado entre rede virtual do Azure e local.
+ExpressRoute – comunicação via cabo. Proximidade ao Datacenter, rapides e confiabilidade.
+DNS Azures: usa rede Anycast – confiabilidade e desempenho. Baseado no gerenciamento de recursos, habilitando o controle de acesso e monitoramento e registro log.
+
+Redundancia de armazenamento
+LRS -3 copias em um único datacenter (não indicado para produção, arquivos sensíveis muito utilizado, para teste e desenvolvimento)
+ZRS – 3 copias em datacenter diferentes espalhado na região (atualização assíncrono, com um pequeno delay)
+Blob do Azures: otimizando para o armazenamento de quantidades massivas de dados não estruturados, como texto ou dados binários.
+Disco do Azure: fornece discos para maquinas virtuais aplicativos. (a quente)
+Fila do Azure: serviço de armazenamento de mensagens.
+Arquivos do Azure: (files) compartilhamento de rede e arquivos altamente disponível.
+Tabelas do Azure: Fornece uma opção de chave armazenamento de dados estruturados.
+Migração Azure.
+Plataforma unificada, ferramentas integras e autônomas, avaliação de migração.
+Azure Data Box: 80 TB de transporte físico de dados. Caixa robusta durante do trânsito.
+Snomobil carreta para movimentação de dados.
+Transporte de arquivos criptografados.
+AzCopy: utilitário linha de comando, sincronização em uma única direção. Copiar blobs ou arquivos para sua conta de armazenamento.
+Gerenciador de armazenamento do azure.
+Interface gráfica do usuário, semelhante ao Windows explores, compatível com o Windows, macos e Linux.
+Sincronização com os arquivos da Azure e locais de forma bidirecional.
+
+
 
 
 
