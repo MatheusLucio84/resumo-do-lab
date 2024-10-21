@@ -118,6 +118,31 @@ Gerenciador de armazenamento do azure.
 Interface gráfica do usuário, semelhante ao Windows explores, compatível com o Windows, macos e Linux.
 Sincronização com os arquivos da Azure e locais de forma bidirecional.
 
+##Identidade, Acesso e Segurança.
+Estratégias de segurança. Microsoft defender Cloud
+Microsoft Entra ID e Domain Services
+Entra ID: serviço de diretório controla identidade de acesso.
+Validador de acesso. Logon único (SSO), negócios (B2B)
+Cria usuário no on primisse, sistema local, migra para nuvem, se criar na nuvem não vem o usuário.
+Autenticação:
+Credenciais de acesso legítimo, identifica a pessoa.
+Autorização:
+controle de seguranças acesso a níveis de arquivos e sistemas.
+Autenticação multifator MFA: segurança adicional, dois ou mais elementos. Token, cartão ou pop-up
+Windows hello – proteção em 2 camadas
+B2B – pode usar validação por meio de outras plataformas (google, facebook, azure, outros)
+B2C – compartilhamento de dados compartilhado dados de identidade externa.
+Acesso Condicional: sinais, autenticação em vários fatores. Monitora em detalhes de segurança. IP, localização, dispositivos.
+Controle de acesso baseado em função: RBac seleção acesso fino aos usuários, quanto menos melhor.
+Acesso liberado, á recursos ou grupos.
+Quanto mais alto o acesso, vc herda o acesso abaixo.
+Confiança Zero: sempre desconfia. Politica central protegendo cada recurso. Proteção por camadas.
+Proteção completa, garante proteção de camadas isoladas. Vários níveis de proteção.
+Defender para nuvem: proteção dos datacenters Azure e Local.
+Controle just-in-time das portas, detectar malware, recomendações de segurança.
+
+Usuários criados na nuvem não migram para o sistema local.
+Usuário são permanentemente deletados após 30 dias.
 
 
 
