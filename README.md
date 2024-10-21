@@ -144,6 +144,21 @@ Controle just-in-time das portas, detectar malware, recomendações de seguranç
 Usuários criados na nuvem não migram para o sistema local.
 Usuário são permanentemente deletados após 30 dias.
 
+##Gerenciamento de Custos na Azure
+TCO – Custo total d propriedade
+Fatores que afetam o custo:
+Tipo de recursos – tem os custos especifico.
+Consumo – pagar conforme o uso e Reserva para usar o recurso por um tempo determinado a longo prazo. (tempo de uso das maquias virtuais pode ser desligada)
+Manutenção – volume de uso do ambiente, saber desligar maquinas e recursos.
+Área Geográfica – podem alterar por conta de imposto.
+Tráfego de rede – entradas seja gratuita, a saída ou consulta enre recursos e afetado por zonas de cobrança.
+Assinatura – Tipo e configuração alteram o custo.
+Marketplace – permite os clientes experimentem, compare e provisionem aplicativos dentro da plataforma.
+	Software abertos, não nativo Microsoft, problema com eles deve procurar help desck do fornecedor.
+Calculadora de preços – ajuda a estimar o custo dos produtos.
+TCO – Compara a economia de custo para migrar para Azure. Relatório de custo das infraestruturas locais com custo de uso de produtos na nuvem.
+Gerenciamento de custo - Configuração de alertas por uso de consumo acima da média.
+Marcas ou Tags – Não são herdáveis, fornecem metadados aos recursos. Muito úteis para reunir informações de cobranças.
 
 
 
