@@ -171,4 +171,11 @@ Portal de confiança de serviços.
 Purview – Familia de soluções de governança, risco e conformidade dos dados.
 Reúne insights sobre seus dados.
 
+#Ferramentas de implantação de recursos
+Interação
+Portal Azure; Azure Cloud Shell, Azure PowerShell, Interface de linha de comando CLI
+Azure Arc: ferramenta multicloud, gerenciar recursos fora do Azure. Gestão recursos datacenter ou outras cloud.
+ARM – Azure Resource Manger – filtro que recebe todos os códigos de entrada e saída (JSON)
+
+Azure – BICEP – linguagem Azure
 
