@@ -160,5 +160,15 @@ TCO – Compara a economia de custo para migrar para Azure. Relatório de custo 
 Gerenciamento de custo - Configuração de alertas por uso de consumo acima da média.
 Marcas ou Tags – Não são herdáveis, fornecem metadados aos recursos. Muito úteis para reunir informações de cobranças.
 
+###3 modulo
+## Blueprints, Políticas e bloqueios de Recursos
+Azure Policy - Política do Azure, governança e consistência de recursos (impor padrões organizacionais)
+Proteja os recursos do Azure de exclusão ou modificação acidental.
+Gerenciar bloqueios na assinatura, grupo de recursos ou níveis de recursos individuais.
+Bloqueios são herdáveis.
+Bloqueio de exclusão e somente leitura.
+Portal de confiança de serviços.
+Purview – Familia de soluções de governança, risco e conformidade dos dados.
+Reúne insights sobre seus dados.
 
 
