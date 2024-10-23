@@ -179,3 +179,10 @@ ARM – Azure Resource Manger – filtro que recebe todos os códigos de entrada
 
 Azure – BICEP – linguagem Azure
 
+#Ferramentas de Monitoramento
+Azure Monitor: Validadção de disponibilidade e o desempenho; por telemetria da nuvem
+Assistente do Azure: recomendações com base nas boas práticas.
+Integridade do Serviço do Azure – Resource Monitor
+Status Azure – Visão Global da integridade.
+Resource Health – exibição personalizada de recursos reais.
+
